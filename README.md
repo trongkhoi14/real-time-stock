@@ -4,6 +4,7 @@
 This is a real-time stock data dashboard displaying the top increasing, decreasing, and highest volume stocks. The system includes a frontend (React.js), backend (Node.js), and Kafka for real-time data processing.
 
 ## System Architecture
+![alt text](<Untitled Diagram.drawio (6).png>)
 The system is divided into three main components:
 
 - Producer (Producer.js): Fetches data from the API and sends it to Kafka.
