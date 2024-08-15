@@ -5,6 +5,7 @@ This is a real-time stock data dashboard displaying the top increasing, decreasi
 
 ## System Architecture
 ![alt text](<Untitled Diagram.drawio (6).png>)
+
 The system is divided into three main components:
 
 - Producer (Producer.js): Fetches data from the API and sends it to Kafka.
