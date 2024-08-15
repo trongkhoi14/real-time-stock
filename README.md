@@ -56,7 +56,7 @@ npm start
 The frontend will be available at http://localhost:3000.
 
 ## Project Structure
-.
+```
 ├── backend
 │   ├── producer.js          # Fetch data from the API and send it to Kafka
 │   ├── consumer.js          # Receive data from Kafka and send it to the frontend
@@ -71,4 +71,4 @@ The frontend will be available at http://localhost:3000.
 │   ├── package.json         # Frontend dependencies
 │   └── ...
 └── README.md                # Documentation
-
+```
